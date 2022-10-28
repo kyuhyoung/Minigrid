@@ -16,6 +16,7 @@ The documentation website is at [minigrid.farama.org](https://minigrid.farama.or
 Note that the library was previously known as gym-minigrid and it has been referenced in several publications. If your publication uses the Minigrid library and you wish for it to be included in the [list of publications](https://minigrid.farama.org/content/publications/), please create an issue in the [GitHub repository](https://github.com/Farama-Foundation/Minigrid/issues/new/choose).
 
 
+
 # Installation
 
 To install the Minigrid library use `pip install minigrid`.
